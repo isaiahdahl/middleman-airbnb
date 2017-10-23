@@ -6,7 +6,7 @@
   text-align: center;
   background-image: linear-gradient(0deg, white 50%, #F4F4F4 50%);
   img {
-    width: 150px;
+    width: 100px;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
   }
   h1 {
@@ -26,6 +26,9 @@
     font-weight: bold;
     letter-spacing: -0.5px;
     font-size: 15px;
+  }
+  ul li {
+    list-style-type: none;
   }
   .fa-heart {
     color: #D23333;
